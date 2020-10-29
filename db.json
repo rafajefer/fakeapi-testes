@@ -1,0 +1,8 @@
+{
+    "cursos": [
+        { "id": 1, "titulo": "Javascript moderno", "url": "https://fakeapi.com/javascript" },
+        { "id": 2, "titulo": "PHP moderno", "url": "https://fakeapi.com/php" },
+        { "id": 3, "titulo": "Python moderno", "url": "https://fakeapi.com/python" },
+        { "id": 4, "titulo": "Java moderno", "url": "https://fakeapi.com/java" }
+    ]
+}
